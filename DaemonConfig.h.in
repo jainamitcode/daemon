@@ -1,0 +1,3 @@
+// the configured options and settings for Daemon
+#define Daemon_VERSION_MAJOR @Daemon_VERSION_MAJOR@
+#define Daemon_VERSION_MINOR @Daemon_VERSION_MINOR@
